@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/91c1e8da6d9280ff63c610d4205eda9b58dabed0150364325d77a06c189c821d/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966)]
+![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Ahmet Nuhoglu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihnuhoglu&label=Profile%20views&color=0e75b6&style=flat" alt="salihnuhoglu" /> </p>
 
