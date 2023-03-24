@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihnuhoglu&label=Profile%20views&color=0e75b6&style=flat" alt="salihnuhoglu" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, Javascript**
+- 🌱 I’m currently learning **Reactjs, Javascript, React Native**
 
 - 📫 How to reach me **salihahmet.nuhoglu@gmail.com**
 
